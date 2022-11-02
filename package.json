@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "react": "16.8.6",
-    "react-native": "0.47.0",
+    "react-native": "0.70.4",
     "react-native-3d-model-view": "^1.2.0",
     "react-native-ble-manager": "^6.6.8",
     "react-native-camera": "^3.1.2",
